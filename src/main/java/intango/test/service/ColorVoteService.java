@@ -18,7 +18,7 @@ public class ColorVoteService implements VoteService {
 		set.add(new ColorVote(1, "pink", 0));
 		set.add(new ColorVote(2, "blue", 0));
 		set.add(new ColorVote(3, "black", 0));
-		set.add(new ColorVote(4, "white", 0));
+		set.add(new ColorVote(4, "grey", 0));
 		set.add(new ColorVote(5, "yellow", 0));
 		set.add(new ColorVote(6, "purple", 0));
 		set.add(new ColorVote(7, "red", 0));
